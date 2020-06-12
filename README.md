@@ -22,7 +22,8 @@ this repo, provide full **ASP.NET MVC** version of AdminLTE, consisting all the 
 - Mailbox
 - Examples
 - Multilevel
-![adminltemvc](https://github.com/thientech/AdminLTE-ASP-NET-MVC/raw/master/Content/adminltemvc.png)
+![adminltemvc](https://github.com/thientech/AdminLTE-ASP-NET-MVC/blob/master/adminlte/Content/adminltemvc.png)
+
 
 # Development Tools & Environment
 
