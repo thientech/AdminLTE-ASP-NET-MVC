@@ -1,10 +1,10 @@
-﻿# AdminLTE
+# AdminLTE
 
 AdminLTE - is a Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
-the creator of AdminLTE is [Abdulllah Almsaeed](https://adminlte.io/about)
+the creator of AdminLTE is (https://adminlte.io/about)
 
-follow this [AdminLTE](https://github.com/almasaeed2010/AdminLTE) link for original HTML/JavaScript version.
+follow this me (https://www.facebook.com/thienmvc) link for original HTML/JavaScript version.
 
 
 # ASP.NET MVC Version
@@ -23,7 +23,7 @@ this repo, provide full **ASP.NET MVC** version of AdminLTE, consisting all the 
 - Examples
 - Multilevel
 
-![adminltemvc](adminlte/Content/adminltemvc.png)
+![adminltemvc](Content/adminltemvc.png)
 
 # Development Tools & Environment
 
@@ -41,8 +41,7 @@ You can **Clone / Download** the repo and then start building beautiful web app 
 - work with razor
 - create HTML helper extension
 
-# Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
+
 
 
 
